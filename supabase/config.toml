@@ -1,0 +1,34 @@
+project_id = "pjreelxakuddxxbgaavu"
+
+[functions.create-and-push-repo]
+verify_jwt = true
+
+[functions.list-repos]
+verify_jwt = true
+
+[functions.get-repo-branches]
+verify_jwt = true
+
+[functions.get-repo-contents]
+verify_jwt = true
+
+[functions.create-pull-request]
+verify_jwt = true
+
+[functions.sync-repo-contents]
+verify_jwt = true
+
+[functions.check-repo-name]
+verify_jwt = true
+
+[functions.delete-file]
+verify_jwt = true
+
+[functions.update-file]
+verify_jwt = true
+
+[functions.create-file]
+verify_jwt = true
+
+[functions.upload-files]
+verify_jwt = true
